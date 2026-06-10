@@ -4,6 +4,8 @@ A modern 3D remake of the 1978 arcade classic, built as a **single self-containe
 
 Open it in a browser and play. Deploy it anywhere that can serve a static file.
 
+**▶ Play it live at [invaders3d.pages.dev](https://invaders3d.pages.dev/)**
+
 ---
 
 ## How to Play
